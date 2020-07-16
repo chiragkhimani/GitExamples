@@ -6,5 +6,7 @@ public class File2 {
 		System.out.println("Changes mad by Urvi before Pull");
 		System.out.println("Updating File2");
 
-}
+		System.out.println("Test message");
+		System.out.println("Test message2");
+	}
 }
